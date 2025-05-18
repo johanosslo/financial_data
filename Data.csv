@@ -1,25 +1,126 @@
-Ciudad de Mexico,Utilidad_Neta,2022-01-31,223046,Real
-Ciudad de Mexico,4.1.01 - Ventas,2022-01-31,616167,Real
-Ciudad de Mexico,5.1.01 - Costo de Ventas,2022-01-31,238640,Real
-Ciudad de Mexico,5.1.03 - Garantías,2022-01-31,250,Real
-Ciudad de Mexico,6.1.01.01 - Sueldos y Salarios,2022-01-31,87056,Real
-Ciudad de Mexico,6.1.01.02 - Comisiones,2022-01-31,1383,Real
-Ciudad de Mexico,6.1.01.03 - Comisiones en Ventas,2022-01-31,0,Real
-Ciudad de Mexico,6.1.02.01 - Décimo Tercero,2022-01-31,11668,Real
-Ciudad de Mexico,6.1.02.02 - Horas Extra,2022-01-31,364,Real
-Ciudad de Mexico,6.1.02.04 - Vacaciones,2022-01-31,5703,Real
-Ciudad de Mexico,6.1.02.05 - Aporte Patronal,2022-01-31,18372,Real
-Ciudad de Mexico,6.1.02.06 - Seguro Médico,2022-01-31,1000,Real
-Ciudad de Mexico,6.1.02.07 - Atenciones al Personal,2022-01-31,396,Real
-Ciudad de Mexico,6.1.02.08 - Capacitación,2022-01-31,167,Real
-Ciudad de Mexico,6.1.03.01 - Publicidad,2022-01-31,558,Real
-Ciudad de Mexico,6.1.03.03 - Medios,2022-01-31,38,Real
-Ciudad de Mexico,6.1.03.04 - Otros Gastos Marketing,2022-01-31,442,Real
-Ciudad de Mexico,6.1.04.01 - Pasajes,2022-01-31,2513,Real
-Ciudad de Mexico,6.1.04.02 - Hotel,2022-01-31,3308,Real
-Ciudad de Mexico,6.1.04.03 - Alimentación,2022-01-31,1145,Real
-Ciudad de Mexico,6.1.04.04 - Viáticos,2022-01-31,813,Real
-Ciudad de Mexico,6.1.05.01 - Renta de Equipo,2022-01-31,1679,Real
-Ciudad de Mexico,6.1.05.02 - Mantenimiento,2022-01-31,1083,Real
-Ciudad de Mexico,6.1.05.03.01 - Telefonía Fija,2022-01-31,2833,Real
-Ciudad de Mexico,6.1.05.03.02 - Telefonía Celular,2022-01-31,250,Real
+Ciudad de Mexico,Legal,2022-01-31,18,Real
+Ciudad de Mexico,6.1.05.05 - Suministros de Oficina,2022-01-31,26,Real
+Ciudad de Mexico,6.1.05.07.01 - Luz Derama,2022-01-31,29,Real
+Ciudad de Mexico,6.1.05.07.02 - Agua,2022-01-31,17,Real
+Ciudad de Mexico,6.1.07.01 - Comisión Tarjetas de Crédito,2022-01-31,1000,Real
+Ciudad de Mexico,61.07.02 - Honorarios,2022-01-31,1083,Real
+Ciudad de Mexico,6.1.99.01 - Software en USD,2022-01-31,100,Real
+Ciudad de Mexico,6.9.1.01.01 - Energía Eléctrica IN,2022-01-31,20,Real
+Ciudad de Mexico,6.9.1.02.01 - Agua IN,2022-01-31,19,Real
+Ciudad de Mexico,6.9.1.03.01 - Internet IN,2022-01-31,24,Real
+Ciudad de Mexico,6.9.2.01 - Arriendo IN,2022-01-31,0,Real
+Ciudad de Mexico,6.9.5.01 - Gastos Adm. General IN,2022-01-31,11125,Real
+Tijuana,Utilidad_Neta,2022-01-31,74439,Real
+Tijuana,4.1.01 - Ventas,2022-01-31,343819,Real
+Tijuana,5.1.01 - Costo de Ventas,2022-01-31,133494,Real
+Tijuana,6.1.01.01 - Sueldos y Salarios,2022-01-31,88442,Real
+Tijuana,6.1.01.02 - Comisiones,2022-01-31,1667,Real
+Tijuana,6.1.02.01 - Décimo Tercero,2022-01-31,8138,Real
+Tijuana,6.1.02.02 - Horas Extra,2022-01-31,378,Real
+Tijuana,6.1.02.03 - Fondos de Reserva,2022-01-31,7292,Real
+Tijuana,6.1.02.04 - Vacaciones,2022-01-31,3525,Real
+Tijuana,6.1.02.05 - Aporte Patronal,2022-01-31,10899,Real
+Tijuana,6.1.02.06 - Seguro Médico,2022-01-31,752,Real
+Tijuana,6.1.02.07 - Atenciones al Personal,2022-01-31,583,Real
+Tijuana,6.1.02.08 - Capacitación,2022-01-31,283,Real
+Tijuana,6.1.02.10 - Cesantía,2022-01-31,3308,Real
+Tijuana,6.1.03.01 - Publicidad,2022-01-31,250,Real
+Tijuana,6.1.03.02 - Campañas,2022-01-31,100,Real
+Tijuana,6.1.04.01 - Pasajes,2022-01-31,424,Real
+Tijuana,6.1.04.02 - Hotel,2022-01-31,486,Real
+Tijuana,6.1.04.03 - Alimentación,2022-01-31,200,Real
+Tijuana,6.1.04.04 - Viáticos,2022-01-31,180,Real
+Tijuana,6.1.05.01 - Renta de Equipo,2022-01-31,683,Real
+Tijuana,6.1.05.03.03 - Internet,2022-01-31,17,Real
+Tijuana,6.1.05.06 - Arriendo,2022-01-31,667,Real
+Tijuana,6.1.05.07.01 - Luz Derama,2022-01-31,42,Real
+Tijuana,6.1.05.07.02 - Agua,2022-01-31,25,Real
+Tijuana,6.9.1.01.01 - Energía Eléctrica IN,2022-01-31,12,Real
+Tijuana,6.9.1.02.01 - Agua IN,2022-01-31,11,Real
+Tijuana,6.9.1.03.01 - Internet IN,2022-01-31,15,Real
+Tijuana,6.9.2.01 - Arriendo IN,2022-01-31,1299,Real
+Tijuana,6.9.5.01 - Gastos Adm. General IN,2022-01-31,6208,Real
+Jalisco,Utilidad_Neta,2022-01-31,85593,Real
+Jalisco,4.1.01 - Ventas,2022-01-31,352598,Real
+Jalisco,5.1.01 - Costo de Ventas,2022-01-31,142065,Real
+Jalisco,6.1.01.01 - Sueldos y Salarios,2022-01-31,87144,Real
+Jalisco,6.1.01.02 - Comisiones,2022-01-31,433,Real
+Jalisco,6.1.02.01 - Décimo Tercero,2022-01-31,7572,Real
+Jalisco,6.1.02.02 - Horas Extra,2022-01-31,333,Real
+Jalisco,6.1.02.03 - Fondos de Reserva,2022-01-31,7504,Real
+Jalisco,6.1.02.04 - Vacaciones,2022-01-31,3642,Real
+Jalisco,6.1.02.05 - Aporte Patronal,2022-01-31,9195,Real
+Jalisco,6.1.02.06 - Seguro Médico,2022-01-31,556,Real
+Jalisco,6.1.02.07 - Atenciones al Personal,2022-01-31,333,Real
+Jalisco,6.1.02.08 - Capacitación,2022-01-31,500,Real
+Jalisco,6.1.03.01 - Publicidad,2022-01-31,80,Real
+Jalisco,6.1.04.01 - Pasajes,2022-01-31,33,Real
+Jalisco,6.1.04.02 - Hotel,2022-01-31,58,Real
+Jalisco,6.1.04.03 - Alimentación,2022-01-31,42,Real
+Jalisco,6.1.04.04 - Viáticos,2022-01-31,24,Real
+Jalisco,6.1.05.03.03 - Internet,2022-01-31,17,Real
+Jalisco,6.1.05.06 - Arriendo,2022-01-31,333,Real
+Jalisco,6.1.05.07.01 - Luz Derama,2022-01-31,29,Real
+Jalisco,6.1.05.07.02 - Agua,2022-01-31,17,Real
+Jalisco,6.9.1.01.01 - Energía Eléctrica IN,2022-01-31,9,Real
+Jalisco,6.9.1.02.01 - Agua IN,2022-01-31,9,Real
+Jalisco,6.9.1.03.01 - Internet IN,2022-01-31,11,Real
+Jalisco,6.9.2.01 - Arriendo IN,2022-01-31,698,Real
+Jalisco,6.9.5.01 - Gastos Adm. General IN,2022-01-31,6366,Real
+Quito,Utilidad_Neta,2022-01-31,85514,Real
+Quito,4.1.01 - Ventas,2022-01-31,422133,Real
+Quito,5.1.01 - Costo de Ventas,2022-01-31,168360,Real
+Quito,5.1.03 - Garantías,2022-01-31,301,Real
+Quito,5.1.04 - Costo Retail,2022-01-31,45,Real
+Quito,6.1.01.01 - Sueldos y Salarios,2022-01-31,83086,Real
+Quito,6.1.01.02 - Comisiones,2022-01-31,108,Real
+Quito,6.1.02.01 - Décimo Tercero,2022-01-31,5308,Real
+Quito,6.1.02.02 - Horas Extra,2022-01-31,783,Real
+Quito,6.1.02.04 - Vacaciones,2022-01-31,3375,Real
+Quito,6.1.02.05 - Aporte Patronal,2022-01-31,10759,Real
+Quito,6.1.02.06 - Seguro Médico,2022-01-31,1048,Real
+Quito,6.1.02.07 - Atenciones al Personal,2022-01-31,158,Real
+Quito,6.1.02.08 - Capacitación,2022-01-31,19,Real
+Quito,6.1.02.10 - Cesantía,2022-01-31,867,Real
+Quito,6.1.03.01 - Publicidad,2022-01-31,30,Real
+Quito,6.1.03.04 - Otros Gastos Marketing,2022-01-31,274,Real
+Quito,6.1.04.01 - Pasajes,2022-01-31,1807,Real
+Quito,6.1.04.02 - Hotel,2022-01-31,2930,Real
+Quito,6.1.04.03 - Alimentación,2022-01-31,662,Real
+Quito,6.1.04.04 - Viáticos,2022-01-31,196,Real
+Quito,6.1.05.01 - Renta de Equipo,2022-01-31,271,Real
+Quito,6.1.05.02 - Mantenimiento,2022-01-31,1205,Real
+Quito,6.1.05.03.01 - Telefonía Fija,2022-01-31,512,Real
+Quito,Legal,2022-01-31,13,Real
+Quito,6.1.05.05 - Suministros de Oficina,2022-01-31,10016,Real
+Quito,6.1.07.01 - Comisión Tarjetas de Crédito,2022-01-31,127,Real
+Quito,61.07.02 - Honorarios,2022-01-31,200,Real
+Quito,6.9.1.01.01 - Energía Eléctrica IN,2022-01-31,10,Real
+Quito,6.9.1.02.01 - Agua IN,2022-01-31,9,Real
+Quito,6.9.1.03.01 - Internet IN,2022-01-31,12,Real
+Quito,6.9.2.01 - Arriendo IN,2022-01-31,1949,Real
+Quito,6.9.5.01 - Gastos Adm. General IN,2022-01-31,42180,Real
+Guayaquil,Utilidad_Neta,2022-01-31,43232,Real
+Guayaquil,4.1.01 - Ventas,2022-01-31,450878,Real
+Guayaquil,5.1.01 - Costo de Ventas,2022-01-31,253361,Real
+Guayaquil,6.1.01.01 - Sueldos y Salarios,2022-01-31,75116,Real
+Guayaquil,6.1.01.02 - Comisiones,2022-01-31,258,Real
+Guayaquil,6.1.02.01 - Décimo Tercero,2022-01-31,5776,Real
+Guayaquil,6.1.02.02 - Horas Extra,2022-01-31,792,Real
+Guayaquil,6.1.02.03 - Fondos de Reserva,2022-01-31,8371,Real
+Guayaquil,6.1.02.04 - Vacaciones,2022-01-31,3075,Real
+Guayaquil,6.1.02.05 - Aporte Patronal,2022-01-31,10391,Real
+Guayaquil,6.1.02.06 - Seguro Médico,2022-01-31,972,Real
+Guayaquil,6.1.02.07 - Atenciones al Personal,2022-01-31,192,Real
+Guayaquil,6.1.02.08 - Capacitación,2022-01-31,48,Real
+Guayaquil,6.1.02.10 - Cesantía,2022-01-31,817,Real
+Guayaquil,6.1.03.01 - Publicidad,2022-01-31,20,Real
+Guayaquil,6.1.03.02 - Campañas,2022-01-31,15,Real
+Guayaquil,6.1.03.04 - Otros Gastos Marketing,2022-01-31,0,Real
+Guayaquil,6.1.04.01 - Pasajes,2022-01-31,753,Real
+Guayaquil,6.1.04.02 - Hotel,2022-01-31,662,Real
+Guayaquil,6.1.04.03 - Alimentación,2022-01-31,262,Real
+Guayaquil,6.1.04.04 - Viáticos,2022-01-31,219,Real
+Guayaquil,6.1.05.01 - Renta de Equipo,2022-01-31,151,Real
+Guayaquil,6.1.05.03.01 - Telefonía Fija,2022-01-31,15,Real
+Guayaquil,6.9.1.01.01 - Energía Eléctrica IN,2022-01-31,9,Real
