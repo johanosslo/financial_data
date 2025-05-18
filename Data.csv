@@ -1,9 +1,25 @@
-En Ciudad de México, la Utilidad Neta al 31 de enero de 2022 fue de 223.046 (Real).
-En Ciudad de México, la cuenta 4.1.01 - Ventas registró un valor de 616.167 al 31 de enero de 2022 (Real).
-En Ciudad de México, el Costo de Ventas (5.1.01) fue de 238.640 el 31 de enero de 2022 (Real).
-En Ciudad de México, el valor registrado por Garantías (5.1.03) fue de 250 el 31 de enero de 2022 (Real).
-En Ciudad de México, los Sueldos y Salarios (6.1.01.01) fueron de 87.056 al 31 de enero de 2022 (Real).
-En Ciudad de México, las Comisiones (6.1.01.02) ascendieron a 1.383 al 31 de enero de 2022 (Real).
-En Ciudad de México, las Comisiones en Ventas (6.1.01.03) fueron de 0 al 31 de enero de 2022 (Real).
-En Ciudad de México, el gasto en Décimo Tercero (6.1.02.01) fue de 11.668 el 31 de enero de 2022 (Real).
-En Ciudad de México, el gasto en Horas Extra (6.1.02.02) fue de 364 el 31 de enero de 2022 (Real).
+Ciudad de Mexico,Utilidad_Neta,2022-01-31,223046,Real
+Ciudad de Mexico,4.1.01 - Ventas,2022-01-31,616167,Real
+Ciudad de Mexico,5.1.01 - Costo de Ventas,2022-01-31,238640,Real
+Ciudad de Mexico,5.1.03 - Garantías,2022-01-31,250,Real
+Ciudad de Mexico,6.1.01.01 - Sueldos y Salarios,2022-01-31,87056,Real
+Ciudad de Mexico,6.1.01.02 - Comisiones,2022-01-31,1383,Real
+Ciudad de Mexico,6.1.01.03 - Comisiones en Ventas,2022-01-31,0,Real
+Ciudad de Mexico,6.1.02.01 - Décimo Tercero,2022-01-31,11668,Real
+Ciudad de Mexico,6.1.02.02 - Horas Extra,2022-01-31,364,Real
+Ciudad de Mexico,6.1.02.04 - Vacaciones,2022-01-31,5703,Real
+Ciudad de Mexico,6.1.02.05 - Aporte Patronal,2022-01-31,18372,Real
+Ciudad de Mexico,6.1.02.06 - Seguro Médico,2022-01-31,1000,Real
+Ciudad de Mexico,6.1.02.07 - Atenciones al Personal,2022-01-31,396,Real
+Ciudad de Mexico,6.1.02.08 - Capacitación,2022-01-31,167,Real
+Ciudad de Mexico,6.1.03.01 - Publicidad,2022-01-31,558,Real
+Ciudad de Mexico,6.1.03.03 - Medios,2022-01-31,38,Real
+Ciudad de Mexico,6.1.03.04 - Otros Gastos Marketing,2022-01-31,442,Real
+Ciudad de Mexico,6.1.04.01 - Pasajes,2022-01-31,2513,Real
+Ciudad de Mexico,6.1.04.02 - Hotel,2022-01-31,3308,Real
+Ciudad de Mexico,6.1.04.03 - Alimentación,2022-01-31,1145,Real
+Ciudad de Mexico,6.1.04.04 - Viáticos,2022-01-31,813,Real
+Ciudad de Mexico,6.1.05.01 - Renta de Equipo,2022-01-31,1679,Real
+Ciudad de Mexico,6.1.05.02 - Mantenimiento,2022-01-31,1083,Real
+Ciudad de Mexico,6.1.05.03.01 - Telefonía Fija,2022-01-31,2833,Real
+Ciudad de Mexico,6.1.05.03.02 - Telefonía Celular,2022-01-31,250,Real
